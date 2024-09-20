@@ -41,7 +41,7 @@ Y tambien tenemos este icono que lo cambiamos directo cambiando el archivo y pon
 
 ![image](https://github.com/user-attachments/assets/3e43a149-afd5-4562-8ef1-b4b7b128fab8)
 
-![image](https://github.com/user-attachments/assets/c71cec73-4524-493a-8e2e-4605499d9487)
+
 
 
 
@@ -52,5 +52,5 @@ Tambien muestro los datos de las peliculas que nos arroja la api la cual nos per
 
 ![image](https://github.com/user-attachments/assets/78cd28db-b4e7-4d4c-bf45-25d6e772a651)
 
-
+![image](https://github.com/user-attachments/assets/c71cec73-4524-493a-8e2e-4605499d9487)
 
