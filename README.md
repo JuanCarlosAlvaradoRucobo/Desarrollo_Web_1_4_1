@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Actualizacion de la Pagina web usando <v-icon>, <v - drawer> y usar una barra de navegacion y poder usar router.push que navega entre paginas las cuales usan <v-nav-bar> y les damos acciones en JavaScript usando vutify
+
+En este 
