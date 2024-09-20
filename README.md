@@ -33,21 +33,24 @@ npm run build
 En este Read explicare los avances haste el dia de hoy usando <v-icon> ya que actualmente batalle para realizar lo que es el cambio en mi pagina porque voy entendiendo de que va JavaScript pero entendemos por <v-icon> como crear un icono el cual descargue una libreria de mdi y luego actualice la pagina para mostrar los iconos de eliminar y borrar en la pagina las cuales van a mostrar una pantalla y que dira que quieres editar y borrar solamente lo remueve de la lista o la pila depende de como lo queramos ver pero es borrandolo de la lista o modificar las peliculas como tal.
 
 Pues todo se basa en el objeto pelicula que va cambiando las columnas como nombre y el imdb.
-//
-//
+
+
 ![image](https://github.com/user-attachments/assets/794b5089-45f5-4c85-a042-cd4d8c6578ef)
 
 Y tambien tenemos este icono que lo cambiamos directo cambiando el archivo y poner un icono algo distinto para que combine con la app.
-//
-//
+
 ![image](https://github.com/user-attachments/assets/3e43a149-afd5-4562-8ef1-b4b7b128fab8)
-//
-//
+
 ![image](https://github.com/user-attachments/assets/c71cec73-4524-493a-8e2e-4605499d9487)
 
 
-El uso de <nav-bar> se uso en cada pagina en peliculas, menu e inicio para poder navegar en la pagina
 
+El uso de <nav-bar> se uso en cada pagina en peliculas, menu e inicio para poder navegar en la pagina que nos facilita en cambiar entre paginas y poder visualizar las diferentes que es el inicio, peliculas y home.
+
+Tambien muestro los datos de las peliculas que nos arroja la api la cual nos permit obtener los datos de la pagina y plasmarlos en la tabla y podemos visualizar el uso de icons con el simbolo de eliminar y el de editar.
+
+
+![image](https://github.com/user-attachments/assets/78cd28db-b4e7-4d4c-bf45-25d6e772a651)
 
 
 
